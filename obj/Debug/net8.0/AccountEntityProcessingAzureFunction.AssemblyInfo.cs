@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccountEntityProcessingAzureFunction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+793f7af35cc53a62c7b07915f034be1b7d1b75fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe4e65e18b65b482f6033e0ba1f985d3c30466d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccountEntityProcessingAzureFunction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccountEntityProcessingAzureFunction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
