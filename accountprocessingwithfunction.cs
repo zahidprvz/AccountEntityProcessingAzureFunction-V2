@@ -74,7 +74,7 @@ namespace DynamicsAccountProcessor
             }
             catch (Exception ex)
             {
-                logger.LogError(ex, "❌ Processing failed.");
+                logger.LogError(ex, "Processing failed.");
                 response.StatusCode = System.Net.HttpStatusCode.InternalServerError;
                 await response.WriteStringAsync($"Error: {ex.Message}");
             }
